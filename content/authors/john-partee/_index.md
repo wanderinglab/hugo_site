@@ -65,4 +65,5 @@ email: ""
 user_groups:
 - Class of August 2020
 - Graduate Student
+- Researcher
 ---

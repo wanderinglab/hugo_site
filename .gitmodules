@@ -7,3 +7,7 @@
 [submodule "themes/noteworthy"]
 	path = themes/noteworthy
 	url = https://github.com/kimcc/hugo-theme-noteworthy.git
+
+[submodule "public"]
+	path = public
+	url = git@github.com:wanderinglab/wanderinglab.github.io.git

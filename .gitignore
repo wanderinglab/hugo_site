@@ -2,7 +2,7 @@
 
 
 # Hugo default output directory
-public/
+public
 resources/
 
 ## OS Files

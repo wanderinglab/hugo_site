@@ -62,6 +62,7 @@ email: ""
 user_groups:
 - Class of May 2020
 - Graduate Student
+- Researcher
 ---
 
 David is a data scientist and open source contributor with an extensive background in mathematical and stochastic modeling. He loves unsupervised learning, caffeine, and type hinting, and hopes to continue to learn and work on a diverse range of problems throughout his career.
