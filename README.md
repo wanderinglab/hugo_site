@@ -1,7 +1,7 @@
 
-# Covid Hugo
+# Wandering Labs Hugo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4c903640-00f4-4086-9b55-5b2c60f89bfc/deploy-status)](https://app.netlify.com/sites/ecstatic-kirch-e1f78c/deploys)
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/4c903640-00f4-4086-9b55-5b2c60f89bfc/deploy-status)](https://app.netlify.com/sites/ecstatic-kirch-e1f78c/deploys) -->
 
 ## Getting Started
 
@@ -25,7 +25,8 @@ step where they'll matter for most in this project.
 
 ```bash
 # Clone Repo
-git clone --recursive https://github.com/CovidDS-SMU/covid-hugo.git  
+# git clone --recursive https://github.com/CovidDS-SMU/covid-hugo.git
+# @TODO: update link
 # Move into repo
 cd covid-hugo
 ```
