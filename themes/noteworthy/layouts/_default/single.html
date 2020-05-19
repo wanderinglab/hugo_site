@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1 class="post-title">{{ .Title }}</h1>
+    {{ if .Date }}
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ end }}
+    <div>
+        <p>
+        {{ .Content }}
+        </p>
+    </div>
+    {{ template "_internal/disqus.html" . }}
+
+    <div class="page-footer">
+        {{if .Params.tags}}
+        <hr class="footer-divider">
+        {{ range .Params.tags }}
+            <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+
+{{end}}
