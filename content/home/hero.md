@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Data Scientists Fighting Covid-19"
+title = "Wandering Lab"
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
@@ -70,8 +70,9 @@ title = "Data Scientists Fighting Covid-19"
 
 +++
 
+<!-- Text can go here for hero details -->
 <br>
 
-**Data Science Volunteers using data to fight the Covid-19 pandemic by connecting people, organizations, and resources.**
+&nbsp;
 
-
+<br>
