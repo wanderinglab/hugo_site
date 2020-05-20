@@ -15,14 +15,14 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: ""
+  url: "http://johnsanterre.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Professor of Machine learning, John has 10 years working in industry solving and leading teams that solve real world problems for clients. One foot firmly in academia and the other in industry, John strives to bring new cutting edge solutions into the field where they can make immediate effect.
 
 # List each interest with a dash
 interests:
-- Interest 1
+- Statistical Machine Learning
 - Interest 2
 
 education:
@@ -38,16 +38,18 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/john-santerre-91609b6/
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=PERSON-ID
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/USERNAME
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/johnsanterre/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
