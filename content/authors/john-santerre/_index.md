@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Adjunct Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Advisor
+- Project Leader
 ---
 
 Professor of Machine learning, John has 10 years working in industry solving and leading teams that solve real world problems for clients. One foot firmly in academia and the other in industry, John strives to bring new cutting edge solutions into the field where they can make immediate effect.

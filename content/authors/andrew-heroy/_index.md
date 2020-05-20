@@ -60,6 +60,7 @@ user_groups:
 - Class of May 2020
 - Graduate Student
 - Researcher
+- Current Members
 ---
 
 Andy Heroy is a dedicated professional with over ten years research experience, including data management, machine learning modeling, research design and analytical expertise. Upon graduation in May 2020 from Southern Methodist University, he hopes to apply his master’s in Data Science in the real world to hopefully bring insight and cost savings to his future employer.

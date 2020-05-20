@@ -60,6 +60,7 @@ user_groups:
 - Alumni
 - Class of May 2019
 - Researcher
+- Current Members
 ---
 
 Noelle Brown is a data scientist and educator based in Denver, Colorado. She graduated with her MS in Data Science from Southern Methodist University in May 2019 and is passionate about working on data science projects that have social impact.

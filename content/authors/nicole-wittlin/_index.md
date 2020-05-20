@@ -63,6 +63,7 @@ user_groups:
 - Class of August 2020
 - Graduate Student
 - Researcher
+- Current Members
 ---
 
 Results-oriented and process-driven fundraising operations professional; accomplished arts administrator and frontline fundraiser; experienced manager and department head; data nerd pursuing a Master of Science in Data Science from Southern Methodist University.
