@@ -13,12 +13,15 @@ xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>'
 
 
 .PHONY: all
-all: get_repository clean build deploy clean
+all: get_repository clean build deploy 
 
 .PHONY: get_repository
 get_repository:
 	@echo "🛎 Getting Pages repository"
-	git clone $(GHP_REPO) $(DESTDIR)
+	git clone $(GHP_REPO) temp \
+	&& mv temp/ $(DESTDIR)
+	@echo "🧹 clean up temp directory"
+	rm -rf temp
 
 .PHONY: clean
 clean:
@@ -63,7 +66,9 @@ deploy:
 	@cd $(DESTDIR) \
 	&& git add . \
 	&& git status \
-	&& git commit -m "$(date)  |  🤖 CD bot is helping" \
+	&& MSG=$$(date '+%F-%T'); \
+	git commit --allow-empty -m "$$MSG | 🤖 CD bot is helping" \
 	&& git push -f -q
-
 	@echo "🚀 Site is deployed!"
+
+	
