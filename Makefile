@@ -13,7 +13,7 @@ xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>'
 
 
 .PHONY: all
-all: get_repository clean build deploy
+all: get_repository clean build deploy clean
 
 .PHONY: get_repository
 get_repository:
