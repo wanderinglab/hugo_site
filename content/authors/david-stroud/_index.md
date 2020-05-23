@@ -14,16 +14,17 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer of Information Systems and Quantitative Methods at Troy University. Machine Learning Engineer with extensive experience in Cloud Computing, Big Data, Machine Learning and Deep Learning projects.
+bio: Lecturer of Information Systems and Quantitative Methods at Troy University. Machine Learning Engineer with extensive experience in Cloud Computing, Big Data, Machine Learning and Deep Learning projects. My area of research is Theoretical
+Reinforcement Learning in the space of Supply Chain Management. 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Reinforcement Learning
+- Operations Research
 
 education:
   courses:
@@ -42,6 +43,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/davidstroudai/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Y3MSzKgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/davestroud
