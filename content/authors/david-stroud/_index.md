@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer of Information Systems and Quantitative Methods at Troy University. Machine Learning Engineer with extensive experience in Cloud Computing, Big Data, Machine Learning and Deep Learning projects. My area of research is Theoretical
-Reinforcement Learning in the space of Supply Chain Management. 
+bio: Lecturer of Information Systems and Quantitative Methods at Troy University. Machine Learning Engineer with extensive experience in Cloud Computing, Big Data, Machine Learning and Deep Learning projects. My area of research is Theoretical Reinforcement Learning in the space of Supply Chain Management. 
 
 # List each interest with a dash
 interests:

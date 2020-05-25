@@ -14,7 +14,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: John's Personal Site
   url: "http://johnsanterre.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,16 +23,16 @@ bio: Professor of Machine learning, John has 10 years working in industry solvin
 # List each interest with a dash
 interests:
 - Statistical Machine Learning
-- Interest 2
+- So so many things
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Theoretical Machine Learning (Course Design & Teaching)
+    institution: Southern Methodist University
+    year: 2018->?
+  - course: Intro. to Data Science
+    institution: Syracuse University 
+    year: 2018->?
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
